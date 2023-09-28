@@ -1,7 +1,7 @@
 # Dashboard-for-a-Superstore-on-Tableau
 The dataset comprises of a Superstore of thousands of customers and their purchase/return orders. An analytical dashboard is created using Tableau to draw various Insights.<p>
 
-Dashboard Link: <a href="https://public.tableau.com/app/profile/viraj8380/viz/SuperstoreInsightsDashboard_16950683044460/Superstoredashboard" target="_blank">Link</a><p>
+Dashboard Link: <a href="https://public.tableau.com/app/profile/viraj8380/viz/SuperstoreInsightsDashboard_16950683044460/Superstoredashboard" target="_blank">Tableau Link</a><p>
 Below steps were performed on Tableau to create a Dashboard:<p>
 <ul>
 <li>Data Exploration: The initial phase involved data cleaning, transformation, and preparation to ensure the data was ready for analysis.</li>
